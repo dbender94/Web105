@@ -1,0 +1,26 @@
+a{
+    color: rgb(1, 9, 12);
+    font-size: 1.1 em;
+    padding: 10px;
+}
+.container{
+    width: 80%;
+    margin: 10px auto;
+    padding: 20px;
+    border: 3px solid greenyellow
+}
+body{
+    background-color:white;
+    font-family:cursive;
+    color: red;
+}
+h1, h2{
+    color: crimson;
+    text-align: center;
+}
+nav{
+    font-style: cursive;
+    text-align: center;
+    color: black;
+    display: block;
+}
